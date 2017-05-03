@@ -1,13 +1,13 @@
-# sbt-scalatest-runner
+# sbt-runner
 
-This is a Scala 2.11 runner that fetches dependencies using sbt, and executes tests using scalatest.
+This is a Scala 2.11 runner that fetches dependencies using sbt, and executes tests using sbt as well.
 
 ## How to Use
 
 In order to use this runner for your project, edit the `codingame.yml` file and add the following lines to your project:
 
 ```yaml
-    runner: codingame/sbt-runner:1.0.0-scala-2.11
+    runner: codingame/sbt-runner:1.0.1-scala-2.11
 ```
 
 ## Example
