@@ -7,7 +7,7 @@ This is a Scala 2.12 runner that fetches dependencies using sbt, and executes te
 In order to use this runner for your project, edit the `codingame.yml` file and add the following lines to your project:
 
 ```yaml
-    runner: codingame/sbt-runner:1.0.0
+    runner: codingame/sbt-runner:1.0.1
 ```
 
 ## Example
